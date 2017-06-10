@@ -1,0 +1,12 @@
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\bin\Debug\Personal_Accountant.exe.config
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\bin\Debug\Personal_Accountant.exe
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\bin\Debug\Personal_Accountant.pdb
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.csprojResolveAssemblyReference.cache
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.Form1.resources
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.Properties.Resources.resources
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.csproj.GenerateResource.Cache
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.exe
+c:\users\jripponx\documents\visual studio 2015\Projects\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.pdb
+C:\Users\jripponx\Documents\Visual Studio 2015\Projects\Personal_Accountant\Personal_Accountant-1.2\Personal_Accountant\Personal_Accountant\bin\Debug\Personal_Accountant.exe.config
+C:\Users\jripponx\Documents\Visual Studio 2015\Projects\Personal_Accountant\Personal_Accountant-1.2\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.exe
+C:\Users\jripponx\Documents\Visual Studio 2015\Projects\Personal_Accountant\Personal_Accountant-1.2\Personal_Accountant\Personal_Accountant\obj\Debug\Personal_Accountant.pdb
